@@ -1,0 +1,28 @@
+# Virtual environment
+.venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# VS Code settings
+.vscode/
+
+# Rope project settings
+.ropeproject/
+
+# UV lock file
+uv.lock
+
+# Environment variables
+.env
+.env.local
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Local development settings
+.DS_Store
